@@ -1,0 +1,31 @@
+In the realm of cutting-edge technologies, Artificial Intelligence (AI) has become a ubiquitous term. However, it encompasses various subfields that can sometimes be confusing. By understanding their unique characteristics and applications, we can gain a clearer perspective on the evolving landscape of AI.
+
+Let’s start with the word of the year: generative AI.
+
+Generative AI is an advanced branch of AI that utilizes machine learning techniques to generate new, original content such as images, text, audio, and video. Unlike traditional machine learning, which focuses on mapping input to output, generative models aim to produce novel and realistic outputs based on the patterns and information present in the training data. Maybe you’ve played with Dall-E or chat GPT 4, these are all examples of Generative AI.
+
+Machine Learning (ML):
+
+Machine learning is a subset of AI that focuses on the development of algorithms that enable systems to learn from and make predictions or decisions based on data. Unlike traditional AI, machine learning algorithms are designed to automatically learn and improve from experience without being explicitly programmed. They use statistical techniques to identify patterns, extract insights, and make informed predictions.
+
+Machine Learning works well for solving one problem at a time and then restarting the process, whereas generative AI can learn from itself and solve problems in succession.
+
+Artificial Intelligence (AI):
+
+Artificial Intelligence refers to creating intelligent machines that mimic human-like cognitive abilities. AI encompasses a range of techniques, algorithms, and methodologies aimed at enabling computers to perform tasks that typically require human intelligence. These tasks can include natural language processing, problem-solving, pattern recognition, planning, and decision-making.
+
+Editor’s note: We thought of cutting the following paragraph because it’s inaccurate. Traditional AI is not rules-based programming. However, we decided to leave it in, with this disclaimer, as an example of how GenAI cannot always be trusted to provide factual information, and how it can misinform or seemingly even hallucinate. This serves as a reminder that content you create using GenAI tools should continue to be reviewed and verified by subject-matter experts.
+
+AI techniques can be classified into two main categories: traditional AI and machine learning. Traditional AI employs rule-based programming and predefined sets of rules to solve problems. It involves explicitly defining rules and relationships between inputs and outputs. Traditional AI systems are often brittle and struggle with adapting to new or complex scenarios.
+
+Applications and synergies:
+
+AI, machine learning and generative AI find applications across various domains. AI techniques are employed in natural language processing, virtual assistants, robotics, autonomous vehicles and recommendation systems. Machine learning algorithms power personalized recommendations, fraud detection, medical diagnoses and speech recognition. Generative AI has gained prominence in areas such as image synthesis, text generation, summarization and video production.
+
+While machine learning is a subset of AI, generative AI is a subset of machine learning . Generative models leverage the power of machine learning to create new content that exhibits characteristics learned from the training data. The interplay between the three fields allows for advancements and innovations that propel AI forward.
+
+Conclusion:
+
+AI, machine learning and generative AI are distinct yet interconnected fields within the realm of AI. AI encompasses a broad range of techniques focused on creating intelligent systems, while machine learning specializes in developing algorithms that learn from data to make predictions or decisions, and Generative AI leverages machine learning to generate original and realistic content.
+
+Editor’s note: ChatGPT was used to create the majority of this content. Staff wrote or revised a few sentences for clarity and accuracy. Because generative AI cannot generate and share perspectives like humans can, this blog post doesn’t offer the specific views of any members of our leadership team, nor is there any exploration or interpretation of the significance and application of these technologies in relation to real-world scenarios. This experiment does, however, effectively explain the differences between AI, machine learning and generative AI as perceived by ChatGPT, and as verified by our subject-matter experts.
