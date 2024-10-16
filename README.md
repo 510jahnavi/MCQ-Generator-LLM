@@ -18,14 +18,15 @@ This project is an MCQ (Multiple Choice Question) Generator that automatically g
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/MCQ-Generator-LLM.git
+   git clone https://github.com/510jahnavi/MCQ-Generator-LLM.git
+   
    cd MCQ-Generator-LLM
 
-2. Install the required deoendencies:
+3. Install the required deoendencies:
    
    pip install -r requirements.txt
 
-3. Set up environment variables:
+4. Set up environment variables:
    
    Create a .env file in the root directory with your OpenAI API key:
    
