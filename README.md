@@ -28,6 +28,7 @@ This project is an MCQ (Multiple Choice Question) Generator that automatically g
 3. Set up environment variables:
    
    Create a .env file in the root directory with your OpenAI API key:
+   
    OPENAI_API_KEY=your-openai-api-key
 
 
